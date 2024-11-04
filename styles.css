@@ -1,0 +1,15 @@
+/* Set specific column widths */
+th:nth-child(1), td:nth-child(1) {
+    width: 20%;
+}
+th:nth-child(2), td:nth-child(2) {
+    width: 15%;
+}
+th:nth-child(3), td:nth-child(3) {
+    width: 18%;
+}
+
+/* Align table headers to the left */
+th {
+    text-align: left;
+}
